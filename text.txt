@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+oiahwbfkjugjyHVAD
+=======
 making the first changes
+>>>>>>> 544f2cff255657181bd06b7571d36ccc4b89ba5b
